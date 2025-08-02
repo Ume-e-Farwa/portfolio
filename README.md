@@ -19,5 +19,5 @@ It showcases my skills, projects, resume, and contact details — everything in 
 
 🚀 Live Preview
 
-🌐 [View Portfolio](https://your-site-name.netlify.app)
+🌐 [View Portfolio](https://lucky-trifle-e9a8c3.netlify.app )
 
