@@ -1,7 +1,7 @@
 💼 Personal Portfolio Website
 
 A modern, responsive, and clean personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
-It showcases my skills, projects, resume, and contact details — everything in one place.
+It showcases my skills,projects,resume,and contact details — everything in one place.
 
 🌟 Features
 
